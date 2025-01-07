@@ -1,6 +1,3 @@
-# portfolio
-Portfolio of projects for Computer Science and Data Science.
-
 # Siddhant Choudhary's Portfolio
 
 Welcome to my GitHub portfolio! I am a Computer Science and Data Science student at the University of Wisconsin-Madison with a passion for Artificial Intelligence, Machine Learning, and data-driven solutions. This repository serves as a showcase for my academic, personal, and collaborative projects.

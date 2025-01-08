@@ -103,7 +103,6 @@ FAQ
 	4.	Can I use this on macOS, Windows, or Linux?
 	•	Yes, the application is platform-independent, as long as Java is installed.
 
-Contributions
 
 Contributions are welcome! If you have suggestions or want to add features, feel free to fork the repository and submit a pull request.
 

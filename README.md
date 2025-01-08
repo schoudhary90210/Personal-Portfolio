@@ -13,6 +13,7 @@ I am currently exploring various applications of AI and ML, with experience in P
 
 ## Projects
 Password Manager
+Snake Game
 
 ## Skills
 - Programming: Python, Java, C++

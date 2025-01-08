@@ -23,6 +23,5 @@ Password Manager
 
 ## Contact
 Feel free to connect with me:
-- **Email**: schoudhary27@wisc.edu
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/siddhant-choudhary-441)
 - **GitHub**: [schoudhary90210](https://github.com/schoudhary90210)

@@ -13,12 +13,13 @@ I am currently exploring various applications of AI and ML, with experience in P
 
 ## Projects
 Password Manager
+
 Snake Game
 
 ## Skills
-- Programming: Python, Java, C++
+- Programming: Python, Java,
 - Machine Learning: TensorFlow, PyTorch, scikit-learn
-- Data Visualization: Matplotlib, Seaborn, Tableau
+- Data Visualization: Matplotlib, Seaborn
 - Databases: SQL
 - Tools: Git, Jupyter Notebooks
 

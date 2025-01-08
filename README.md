@@ -12,9 +12,7 @@ Welcome to my GitHub portfolio! I am a Computer Science and Data Science student
 I am currently exploring various applications of AI and ML, with experience in Python, Java, SQL, and data visualization tools like Matplotlib and Seaborn. I have interned as a Research Assistant at Qatar Computing Research Institute, collaborating on machine learning-based astronomical data analysis.
 
 ## Projects
-
-
-More projects will be added soon!
+Password Manager
 
 ## Skills
 - Programming: Python, Java, C++

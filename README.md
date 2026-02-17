@@ -28,14 +28,14 @@ A high-performance quantitative investment tool designed to solve the "Risk of R
 * **Math Core:** Implemented **Ledoit-Wolf Shrinkage** to regularize noisy covariance matrices, ensuring numerical stability across asset classes.
 * **Visualization:** Designed 3D surface plots to visualize the non-linear relationship between leverage and geometric growth.
 
-### 🧬 Bio-Intel Pipeline
+### 🧬 [Bio-Intel Pipeline](https://github.com/schoudhary90210/Bio-Intel-Agent)
 *Python, FastAPI, Redis, Docker, GPT-4*
 An event-driven ETL pipeline designed to automate the monitoring of medical research.
 * **Architecture:** Engineered a **FastAPI** system to ingest 50+ weekly PubMed abstracts, utilizing **Redis** for distributed caching and rate-limiting to optimize API costs.
 * **AI Integration:** Integrated **GPT-4** to synthesize unstructured medical text into structured JSON digests, delivered via Slack webhooks with **99.9% delivery uptime**.
 * **DevOps:** Fully containerized the application for consistent deployment.
 
-### 🐳 Containerized NetMHCstabpan
+### 🐳 [Containerized NetMHCstabpan](https://github.com/schoudhary90210/netmhcstabpan-docker)
 *Docker, Bash, Linux*
 Infrastructure project to standardize peptide-MHC stability predictions across research environments.
 * **Reproducibility:** Built a cross-platform Docker image supporting both **Apple Silicon (ARM64)** and **AMD64** architectures, reducing setup time from days to under 15 minutes (~90% reduction).
@@ -69,10 +69,12 @@ A real-time computer vision application for emotion classification.
 ## 📈 What I'm Learning Next
 * **Distributed Systems:** Deepening knowledge of message queues and microservices patterns.
 * **Financial Engineering:** Exploring Market Microstructure, Statistical Arbitrage, and Stochastic Calculus.
-* **Cloud Architecture:** deploying scalable, fault-tolerant applications on AWS.
+* **Cloud Architecture:** Deploying scalable, fault-tolerant applications on AWS.
 
 ---
+
 ## Contact
 Feel free to connect with me:
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/siddhantchoudhary--/)
 - **GitHub**: [schoudhary90210](https://github.com/schoudhary90210)
+- **Email**: csiddhant12@gmail.com

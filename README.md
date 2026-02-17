@@ -25,5 +25,5 @@ Snake Game
 
 ## Contact
 Feel free to connect with me:
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/siddhant-choudhary-441)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/siddhantchoudhary--/)
 - **GitHub**: [schoudhary90210](https://github.com/schoudhary90210)

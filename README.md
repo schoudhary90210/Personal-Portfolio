@@ -1,10 +1,10 @@
 # Hi there, I'm Siddhant Choudhary! 👋
 
-### 🎓 Computer Science & Data Science @ UW-Madison
+### 🎓 Computer Science & Mathematics @ UW-Madison
 
-I am a sophomore at the University of Wisconsin-Madison pursuing a double major in **Computer Science** and **Data Science**. having lived in **six different countries**, I bring a unique global perspective to solving technical problems. My primary focus lies at the intersection of **Fintech**, **Financial Infrastructure**, and **Applied AI**.
+I am a sophomore at the University of Wisconsin-Madison pursuing a double major in **Computer Science** and **Mathematics**. 
 
-I am passionate about building systems that automate complex workflows and using data to drive decision-making in financial markets and healthcare.
+I am a product-minded engineer with a strong foundation in **applied mathematics** and **infrastructure**. I build scalable systems that bridge the gap between complex data analysis and production-grade software, with experience spanning **Bioinformatics**, **Quantitative Finance**, and **Computer Vision**.
 
 ---
 
@@ -12,48 +12,66 @@ I am passionate about building systems that automate complex workflows and using
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Languages** | Python, Java, SQL, C (LC-3) |
-| **Frameworks & APIs** | FastAPI, Flask, React (Learning) |
-| **Data & ML** | TensorFlow, PyTorch, scikit-learn, Pandas, NumPy |
-| **Infrastructure** | Docker, Redis, Git, n8n |
-| **Visualization** | Matplotlib, Seaborn, Tableau |
+| **Languages** | Java, Python (NumPy/Pandas), C++, R, SQL, Bash |
+| **Backend & Infra** | FastAPI, Flask, Docker, Redis, AWS (EC2, S3), GitHub Actions |
+| **Data & ML** | TensorFlow/Keras, Scikit-Learn, OpenCV, n8n |
+| **Tools** | Postman, Slack API, Linux, PubMed E-utilities |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧬 [Bio-Intelligence Automation Engine](https://github.com/schoudhary90210/Bio-Intel-Agent)
-*Python, FastAPI, Docker, Redis, GPT-4*
-A serverless data pipeline designed to monitor PubMed for health/wellness markers.
-* **Architecture:** Implemented an event-driven architecture using **FastAPI** for asynchronous ingestion and **Redis** for caching query results to optimize API usage.
-* **Automation:** Integrated LLM-based summarization (GPT-4) to process scientific abstracts into structured digests delivered via Slack webhooks.
-* **DevOps:** Fully containerized using **Docker** for consistent deployment.
+### 📉 [Kelly Criterion Portfolio Engine](https://github.com/schoudhary90210/Kelly-Quant-Optimizer)
+*Python, NumPy, Scikit-Learn, Monte Carlo Simulation*
+A high-performance quantitative investment tool designed to solve the "Risk of Ruin" problem.
+* **Engineering:** Built a modular simulation engine using **vectorized NumPy operations** to run 10,000+ portfolio lifespans in milliseconds.
+* **Math Core:** Implemented **Ledoit-Wolf Shrinkage** to regularize noisy covariance matrices, ensuring numerical stability across asset classes.
+* **Visualization:** Designed 3D surface plots to visualize the non-linear relationship between leverage and geometric growth.
 
-### 🚑 Triage-AI (In Progress)
-*Python, Machine Learning*
-Developing an AI-driven triage support system aiming to optimize patient prioritization in emergency contexts based on initial symptom input.
+### 🧬 Bio-Intel Pipeline
+*Python, FastAPI, Redis, Docker, GPT-4*
+An event-driven ETL pipeline designed to automate the monitoring of medical research.
+* **Architecture:** Engineered a **FastAPI** system to ingest 50+ weekly PubMed abstracts, utilizing **Redis** for distributed caching and rate-limiting to optimize API costs.
+* **AI Integration:** Integrated **GPT-4** to synthesize unstructured medical text into structured JSON digests, delivered via Slack webhooks with **99.9% delivery uptime**.
+* **DevOps:** Fully containerized the application for consistent deployment.
 
-### 🛡️ Canvas Cram Guard
-*Browser Extension*
-A productivity tool designed to help students manage study habits by preventing last-minute "cramming" behaviors on the Canvas LMS platform.
+### 🐳 Containerized NetMHCstabpan
+*Docker, Bash, Linux*
+Infrastructure project to standardize peptide-MHC stability predictions across research environments.
+* **Reproducibility:** Built a cross-platform Docker image supporting both **Apple Silicon (ARM64)** and **AMD64** architectures, reducing setup time from days to under 15 minutes (~90% reduction).
+* **Automation:** Developed Makefile scripts for one-command build/run/smoke testing, cutting new-user onboarding time by ~75%.
+* **Standardization:** Validated on 100+ peptides and authored standard operating procedures (SOPs) for future researchers.
+
+### 😠 Facial Emotion Detection
+*Python, OpenCV, TensorFlow/Keras, Flask*
+A real-time computer vision application for emotion classification.
+* **Performance:** Developed a 7-class CNN classifier achieving **~88% validation accuracy** (FER2013 dataset) with real-time CPU inference of **20–30 FPS**.
+* **System:** Implemented a modular codebase with lightweight CI pipelines and evaluation metrics (confusion matrix, precision/recall).
 
 ---
 
 ## 💼 Experience
 
-**Research Assistant Intern @ Qatar Computing Research Institute (QCRI)**
-* Collaborated on machine learning-based astronomical data analysis.
-* Assisted in processing large datasets to identify celestial patterns, utilizing Python data stacks.
+**Bioinformatics Intern @ MD Anderson Cancer Center**
+* *Houston, TX | June 2025 - Aug 2025*
+* Containerized NetMHCstabpan for peptide-MHC stability prediction, standardizing environments for reproducible runs.
+* Improved workflow reliability by implementing version pinning and dependency mapping.
+* Authored clear usage documentation, significantly reducing technical debt for the research team.
+
+**Research Intern @ Qatar Computing Research Institute (QCRI)**
+* *Doha, Qatar | May 2023 - Aug 2023*
+* Applied machine learning to astrophysical light-curve datasets, improving periodic signal detection accuracy by **~14%**.
+* Identified **120+ high-confidence candidates** for follow-up research using time-series ML models.
+* Automated visualization pipelines for data cleaning, reducing manual review time by **~35%**.
 
 ---
 
 ## 📈 What I'm Learning Next
-* **Fintech Infrastructure:** Deepening knowledge in high-frequency trading algorithms and payment gateway architectures.
-* **Day Trading Strategies:** Exploring quantitative finance and options trading models.
-* **System Design:** Moving from monolithic scripts to microservices (as seen in my Bio-Intel project).
+* **Distributed Systems:** Deepening knowledge of message queues and microservices patterns.
+* **Financial Engineering:** Exploring Market Microstructure, Statistical Arbitrage, and Stochastic Calculus.
+* **Cloud Architecture:** deploying scalable, fault-tolerant applications on AWS.
 
 ---
-
 ## Contact
 Feel free to connect with me:
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/siddhantchoudhary--/)
